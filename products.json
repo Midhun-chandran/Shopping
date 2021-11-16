@@ -1,0 +1,76 @@
+{
+    "product": [{
+            "SL No": "1",
+            "Name": "Rice",
+            "Quantity": "5",
+            "Unit": "Kg",
+            "Department": "Rice & flour",
+            "Notes": "Pavizham rice"
+        },
+        {
+            "SL No": "2",
+            "Name": "Atta with Multigrains",
+            "Quantity": "2",
+            "Unit": "Kg",
+            "Department": "Rice & flour",
+            "Notes": "Ashirvad"
+        },
+        {
+            "SL No": "3",
+            "Name": "Onion",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Fresh Quality"
+        }, {
+            "SL No": "4",
+            "Name": "Tomato",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Fresh Quality"
+        }, {
+            "SL No": "5",
+            "Name": "Banana",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Fruits",
+            "Notes": "Fresh Quality"
+        }, {
+            "SL No": "6",
+            "Name": "Chicken",
+            "Quantity": "1",
+            "Unit": "Kg",
+            "Department": "Fish & Meat",
+            "Notes": "Broiler"
+        }, {
+            "SL No": "7",
+            "Name": "Egg",
+            "Quantity": "12",
+            "Unit": "Unit",
+            "Department": "Dairy & Eggs",
+            "Notes": "White"
+        }, {
+            "SL No": "8",
+            "Name": "Milk",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Dairy & Eggs",
+            "Notes": "Milma"
+        }, {
+            "SL No": "9",
+            "Name": "Vemicelli",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Ready to cook",
+            "Notes": "MTR"
+        }, {
+            "SL No": "10",
+            "Name": "Ghee",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Ghee & Oil",
+            "Notes": "RKG"
+        }
+    ]
+}
