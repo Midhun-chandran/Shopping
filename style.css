@@ -62,23 +62,3 @@ th,td{
     padding: 15px;
     border-right:1px solid #ddd;
 }
-@media only screen and (max-width: 900px) {
-    body {
-        background-size: unset;
-    }
-
-    #heading {
-        position: absolute;
-        left: 150px;
-        top: 250px;
-        color: white;
-
-    }
-
-    #tbl {
-        visibility: hidden;
-        position: absolute;
-        top: 50px;
-        left: 50px;
-    }
-}
